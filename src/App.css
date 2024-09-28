@@ -1,0 +1,13 @@
+.nav-bar-header {
+    background-color: rgb(255 191 185 / 22%);
+   
+    position: relative;
+    z-index: 100;
+}
+
+.navbar-toggler {
+    color: black;
+}
+#basic-navbar-nav {
+    background-color: rgb(186, 165, 163);
+}
